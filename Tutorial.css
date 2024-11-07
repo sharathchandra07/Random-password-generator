@@ -1,0 +1,37 @@
+.body {
+    background-color: rgba(0, 35,57);
+}
+.form {
+    margin-left: 100px;
+    height: 500px;
+    width: 500px;
+    color: white;
+}
+label,h1 {
+    margin-left: 9px;
+    margin-top: 150px;
+    margin-bottom: 15px;
+}
+#but {
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 50px;
+    width: 200px;
+    color:white;
+}
+.butt {
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 55px;
+    width: 560px;
+}
+.sos {
+    color: green;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+.pass {
+    color: white;
+    margin-left: 20px;
+    margin-top: 50px;
+}
